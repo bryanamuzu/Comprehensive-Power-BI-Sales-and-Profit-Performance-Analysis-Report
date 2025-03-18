@@ -3,6 +3,12 @@ This analysis is done to project the Transaction Insights in this Data set
 # Dataset Overview
 The dataset consists of detailed records of transactions, covering a wide range of variables related to customer purchases, product details, and shipping information.
 
+<img width="740" alt="2" src="https://github.com/user-attachments/assets/33ba4ebd-2c0d-470b-94b2-7d3a5cbf09aa" />
+<img width="738" alt="3" src="https://github.com/user-attachments/assets/e320df91-203a-488b-adc1-fb81f92c97ca" />
+<img width="736" alt="4" src="https://github.com/user-attachments/assets/d9887adf-bdfd-440f-8e7c-6a39daabc413" />
+<img width="731" alt="Capture" src="https://github.com/user-attachments/assets/a5efb13f-4609-4308-a543-33ab61946968" />
+
+
 # •	Total Records: 9,994 transactions
 # •	Time Period: Covers multiple years of sales data, from the year , 2014 to 2017
 # •	Key Variables:
